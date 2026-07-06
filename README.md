@@ -20,12 +20,26 @@
 
 ### („¬ᴗ¬„) Tech Stack
 
+Icons courtesy of Simple Icons.
+
+Frontend
+
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css" width="40" height="40" alt="CSS" title="CSS" />
+  <img src="https://cdn.simpleicons.org/bootstrap" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" height="40" alt="Vue.js" title="Vue.js" />
+</p>
+Backend
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/php" width="40" height="40" alt="PHP" title="PHP" />
+  <img src="https://cdn.simpleicons.org/laravel" width="40" height="40" alt="Laravel" title="Laravel" />
+  <img src="https://cdn.simpleicons.org/java" width="40" height="40" alt="Java" title="Java" />
+  <img src="https://cdn.simpleicons.org/springboot" width="40" height="40" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://cdn.simpleicons.org/kotlin" width="40" height="40" alt="Kotlin" title="Kotlin" />
+  <img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
 </p>
 
 ---
