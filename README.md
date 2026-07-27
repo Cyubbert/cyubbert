@@ -56,7 +56,7 @@ Database
 Other Tools
 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40" height="40" alt="Postman" title="Postman" />  
-<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/xampp-h6ebimkx48m04hpzewwxp.png/xampp-ets6r9vh7redfku6znym1g.png?_a=DATAiZkSZAA0" width="40" height="40" alt="xampp" title="xampp" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40" height="40" alt="xampp" title="xampp" /> 
 <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" width="" height="40" alt="Docker" title="Docker" /> 
 
 
