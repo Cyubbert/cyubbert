@@ -52,4 +52,4 @@ Backend
 
 ---
 
-<p align="center"><i>Thanks for stopping by! Always happy to talk design, code, or ideas! </i></p>
+<p align="center"><i>Thanks for stopping by! Always happy to talk about design, code or ideas! </i></p>
