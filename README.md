@@ -65,7 +65,7 @@
 
 ## ᕕ( ᐛ )ᕗ My Projects!
 
-### [OFTA](https://ofta.dev/#/) ![badge -> in progress](https://img.shields.io/badge/status-in_progress-green)
+### [OFTA](https://ofta.dev/#/) - D&D Website ![badge -> in progress](https://img.shields.io/badge/status-in_progress-green)
 
 After my first semester at CODERS.BAY, I started hosting my own Dungeons & Dragons campaign, which is a tabletop role playing game. To support it, I built a website to keep track of my world's lore. It was originally created so my players would always have an easily accessible source for the base information about the world they were playing in.
 
