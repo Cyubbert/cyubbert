@@ -20,8 +20,6 @@
 
 ### Tech Stack
 
-Icons courtesy of Simple Icons.
-
 Web
 
 <p align="left">
@@ -29,7 +27,7 @@ Web
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" height="40" alt="CSS" title="CSS" />
   <img src="https://camo.githubusercontent.com/fe1e9d8cbdd20505a54428b4123e6fda9cecaa50c05ec15e239b9738e1f19320/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6w4IyaPjXNqLqcklxRH0JkReYUcdzItG3GBgBhB4ZGrewU56B9C8TS5Me&s=10" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="[https://cdn.simpleicons.org/vuedotjs/4FC08D](https://cdn.iconscout.com/icon/free/png-256/free-vue-icon-svg-download-png-282497.png?f=webp)" width="40" height="40" alt="Vue.js" title="Vue.js" />
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_vue_icon_130078.png" width="40" height="40" alt="Vue.js" title="Vue.js" />
 </p>
 
 Backend
