@@ -42,8 +42,7 @@ Backend
 
 Mobile
 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" width="40" height="40" alt="Kotlin" title="Kotlin" />
-  <img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" width="40" height="40" alt="Kotlin" title="Kotlin" /><img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
 
 Database
 
