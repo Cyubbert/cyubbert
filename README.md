@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Frontend+Development+Enthusiast;Design+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;" alt="Typing SVG" />
 </p>
 
----
 
 <h2> About Me </h2> 
 
@@ -16,7 +15,6 @@
  ☆ I love exchanging ideas with other developers and designers and I'm always open to collaboration. <br>
  ☆ Currently expanding my skills and looking for opportunities to grow as a developer. <br>
 
----
 
 <h2> Tech Stack </h2> 
 
