@@ -65,8 +65,7 @@
 
 <h2> ᕕ( ᐛ )ᕗ My Projects! </h2>
 
-<h2><a href="https://ofta.dev/#/">OFTA</a><p>- Website for my D&D Campaign</p> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3637e112-95a4-457e-af31-41284d49be4c" />
-"></h2>
+<h2><a href="https://ofta.dev/#/">OFTA</a><p>- Website for my D&D Campaign</p> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3637e112-95a4-457e-af31-41284d49be4c" /></h2>
 
 <p>After my first semester at CODERS.BAY, I started hosting my own Dungeons & Dragons campaign, which is a tabletop role playing game. To support it, I built a website to keep track of my world's lore. It was originally created so my players would always have an easily accessible source for the base information about the world they were playing in.
 
