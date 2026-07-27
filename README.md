@@ -22,25 +22,45 @@
 
 Icons courtesy of Simple Icons.
 
-Frontend
+Web
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css" width="40" height="40" alt="CSS" title="CSS" />
-  <img src="https://cdn.simpleicons.org/bootstrap" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" height="40" alt="Vue.js" title="Vue.js" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" height="40" alt="CSS" title="CSS" />
+  <img src="https://camo.githubusercontent.com/fe1e9d8cbdd20505a54428b4123e6fda9cecaa50c05ec15e239b9738e1f19320/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6w4IyaPjXNqLqcklxRH0JkReYUcdzItG3GBgBhB4ZGrewU56B9C8TS5Me&s=10" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="[https://cdn.simpleicons.org/vuedotjs/4FC08D](https://cdn.iconscout.com/icon/free/png-256/free-vue-icon-svg-download-png-282497.png?f=webp)" width="40" height="40" alt="Vue.js" title="Vue.js" />
 </p>
+
 Backend
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/php" width="40" height="40" alt="PHP" title="PHP" />
-  <img src="https://cdn.simpleicons.org/laravel" width="40" height="40" alt="Laravel" title="Laravel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" width="40" height="40" alt="PHP" title="PHP" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" width="40" height="40" alt="Laravel" title="Laravel" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClSrSy94fg7Y6VBv-HfVvCjzl17kfQTea2fOVE5oDAuSUA4wrpvxTEMY&s=10" width="40" height="40" alt="Java" title="Java" />
-  <img src="https://cdn.simpleicons.org/springboot" width="40" height="40" alt="Spring Boot" title="Spring Boot" />
-  <img src="https://cdn.simpleicons.org/kotlin" width="40" height="40" alt="Kotlin" title="Kotlin" />
-  <img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png" width="40" height="40" alt="Spring Boot" title="Spring Boot" />
+
 </p>
+
+Mobile
+
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" width="40" height="40" alt="Kotlin" title="Kotlin" />
+  <img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
+
+Database
+
+<img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" width="40" height="40" alt="MySQL" title="MySQL" />
+<img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" width="40" height="40" alt="postgresql" title="postgresql" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/250px-DBeaver_logo.svg.png" width="40" height="40" alt="DBeaver" title="DBeaver" />
+
+
+
+Other Tools
+
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40" height="40" alt="Postman" title="Postman" />  
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/xampp-h6ebimkx48m04hpzewwxp.png/xampp-ets6r9vh7redfku6znym1g.png?_a=DATAiZkSZAA0" width="40" height="40" alt="xampp" title="xampp" /> 
+<img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" width="40" height="40" alt="Docker" title="Docker" /> 
+
 
 ---
 
