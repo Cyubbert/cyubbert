@@ -8,7 +8,7 @@
 
 ---
 
-### About Me
+<h2> About Me </h2> 
 
  ☆ I studied at a school with a focus on graphic and communication design. <br>
  ☆ I'm passionate about frontend development and love turning ideas into clean, user friendly interfaces. <br>
@@ -18,9 +18,9 @@
 
 ---
 
-### Tech Stack
+<h2> Tech Stack </h2> 
 
-Web
+### Web
 
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40" height="40" alt="HTML5" title="HTML5" />
@@ -30,7 +30,7 @@ Web
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_vue_icon_130078.png" width="40" height="40" alt="Vue.js" title="Vue.js" />
 </p>
 
-Backend
+### Backend
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" width="40" height="40" alt="PHP" title="PHP" />
@@ -40,24 +40,52 @@ Backend
 
 </p>
 
-Mobile
-
+### Mobile
+<p align="left">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" width="40" height="40" alt="Kotlin" title="Kotlin" /><img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
+</p>
 
-Database
+### Database
 
+<p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" width="40" height="40" alt="MySQL" title="MySQL" />
 <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" width="40" height="40" alt="postgresql" title="postgresql" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/250px-DBeaver_logo.svg.png" width="40" height="40" alt="DBeaver" title="DBeaver" />
+</p>
 
 
+### Other Tools
 
-Other Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" width="40" height="40" alt="githubPages" title="githubPages" /> 
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/supabase-icon-kpjasdqlnu8exakst6f44r.png/supabase-icon-5uqgeeqeknngv9las8zeef.png?_a=DATAiZkSZAA0" width="" height="40" alt="Supabase" title="Supabase" /> 
+</p>
 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40" height="40" alt="Postman" title="Postman" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40" height="40" alt="xampp" title="xampp" /> 
-<img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" width="" height="40" alt="Docker" title="Docker" /> 
+---
 
+<h2> ᕕ( ᐛ )ᕗ My Projects! </h2>
+
+<h2><a href="https://ofta.dev/#/">OFTA</a><p>- Website for my D&D Campaign</p> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3637e112-95a4-457e-af31-41284d49be4c" />
+"></h2>
+
+<p>After my first semester at CODERS.BAY, I started hosting my own Dungeons & Dragons campaign, which is a tabletop role playing game. To support it, I built a website to keep track of my world's lore. It was originally created so my players would always have an easily accessible source for the base information about the world they were playing in.
+
+The site started out as a static page, but I've been steadily building it out since then, and I'm currently in the process of migrating some of the data to a database. It's hosted via GitHub Pages.</p>
+
+<h3>Tech Stack</h3>
+
+<h4>☆ Frontend:</h4>
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" height="40" alt="CSS" title="CSS" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6w4IyaPjXNqLqcklxRH0JkReYUcdzItG3GBgBhB4ZGrewU56B9C8TS5Me&s=10" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_vue_icon_130078.png" width="40" height="40" alt="Vue.js" title="Vue.js" />
+</p>
+
+<h4>☆ Tools:</h4>
+<p align="left">
+  
+</p>
 
 ---
 
