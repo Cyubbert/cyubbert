@@ -36,7 +36,7 @@ Backend
 <p align="left">
   <img src="https://cdn.simpleicons.org/php" width="40" height="40" alt="PHP" title="PHP" />
   <img src="https://cdn.simpleicons.org/laravel" width="40" height="40" alt="Laravel" title="Laravel" />
-  <img src="https://cdn.simpleicons.org/java" width="40" height="40" alt="Java" title="Java" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClSrSy94fg7Y6VBv-HfVvCjzl17kfQTea2fOVE5oDAuSUA4wrpvxTEMY&s=10" width="40" height="40" alt="Java" title="Java" />
   <img src="https://cdn.simpleicons.org/springboot" width="40" height="40" alt="Spring Boot" title="Spring Boot" />
   <img src="https://cdn.simpleicons.org/kotlin" width="40" height="40" alt="Kotlin" title="Kotlin" />
   <img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
