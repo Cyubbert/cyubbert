@@ -10,11 +10,11 @@
 
 ### About Me
 
--> I studied at a school with a focus on graphic and communication design. <br>
--> I'm passionate about frontend development and love turning ideas into clean, user friendly interfaces. <br>
--> Presentations are one of my passions, I enjoy explaining ideas clearly and engagingly. <br>
--> I love exchanging ideas with other developers and designers and I'm always open to collaboration. <br>
--> Currently expanding my skills and looking for opportunities to grow as a developer. <br>
+ ☆ I studied at a school with a focus on graphic and communication design. <br>
+ ☆ I'm passionate about frontend development and love turning ideas into clean, user friendly interfaces. <br>
+ ☆ Presentations are one of my passions, I enjoy explaining ideas clearly and engagingly. <br>
+ ☆ I love exchanging ideas with other developers and designers and I'm always open to collaboration. <br>
+ ☆ Currently expanding my skills and looking for opportunities to grow as a developer. <br>
 
 ---
 
