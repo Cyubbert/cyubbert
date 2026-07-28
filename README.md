@@ -39,7 +39,22 @@ The site started out as a static page, but I've been steadily building it out si
 </p>
 </p>
 
+### Kritzelpost - Coming Soon ![badge -> in progress](https://img.shields.io/badge/status-in_progress-green)
 
+Coming soon
+
+<h4>☆ Stack:</h4>
+<p align="left">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" width="40" height="40" alt="Kotlin" title="Kotlin" />
+<img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
+
+
+<h4>☆ Other Tools:</h4>
+<p align="left">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" width="40" height="40" alt="githubPages" title="githubPages" />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/supabase-icon-kpjasdqlnu8exakst6f44r.png/supabase-icon-5uqgeeqeknngv9las8zeef.png?_a=DATAiZkSZAA0" width="40" height="40" alt="Supabase" title="Supabase" />
+</p>
+</p>
 
 <h2> Tech Stack </h2> 
 
