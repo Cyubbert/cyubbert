@@ -97,6 +97,7 @@ In my second semester at CODERS.BAY, I had the freedom to choose my own project,
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" width="40" height="40" alt="githubPages" title="githubPages" /> 
 <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/supabase-icon-kpjasdqlnu8exakst6f44r.png/supabase-icon-5uqgeeqeknngv9las8zeef.png?_a=DATAiZkSZAA0" width="" height="40" alt="Supabase" title="Supabase" /> 
+<img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase" title="Firebase" />
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40" height="40" alt="Postman" title="Postman" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="40" height="40" alt="Xampp" title="Xampp" />
 </p>
