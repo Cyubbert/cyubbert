@@ -19,7 +19,7 @@
 
 ## ᕕ( ᐛ )ᕗ My Projects!
 
-### [OFTA](https://ofta.dev/#/) - D&D Website ![badge -> in progress](https://img.shields.io/badge/status-in_progress-green)
+### [OFTA](https://github.com/Cyubbert/OutFTA) - D&D Website ![badge -> in progress](https://img.shields.io/badge/status-in_progress-green)
 
 After my first semester at CODERS.BAY, I started hosting my own Dungeons & Dragons campaign, which is a tabletop role playing game. To support it, I built a website to keep track of my world's lore. It was originally created so my players would always have an easily accessible source for the base information about the world they were playing in.
 
@@ -39,9 +39,9 @@ The site started out as a static page, but I've been steadily building it out si
 </p>
 </p>
 
-### Kritzelpost - Coming Soon ![badge -> in progress](https://img.shields.io/badge/status-in_progress-green)
+### [Kritzelpost](https://github.com/Cyubbert/Kritzelpost) - A Letter Doodle App ![badge -> in progress](https://img.shields.io/badge/status-in_progress-green)
 
-Coming soon
+In my second semester at CODERS.BAY, I had the freedom to choose my own project, so I picked something I had already been planning to build in my spare time: a mobile remake of the old 3DS game Swapdoodle. I wanted to bring it back so I could revisit it and relive a bit of nostalgia.
 
 <h4>☆ Stack:</h4>
 <p align="left">
@@ -51,8 +51,7 @@ Coming soon
 
 <h4>☆ Other Tools:</h4>
 <p align="left">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" width="40" height="40" alt="githubPages" title="githubPages" />
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/supabase-icon-kpjasdqlnu8exakst6f44r.png/supabase-icon-5uqgeeqeknngv9las8zeef.png?_a=DATAiZkSZAA0" width="40" height="40" alt="Supabase" title="Supabase" />
+  <img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase" title="Firebase" />
 </p>
 </p>
 
