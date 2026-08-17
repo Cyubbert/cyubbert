@@ -9,13 +9,17 @@
 
 <h2> About Me </h2> 
 
- ☆ I studied at a school with a focus on graphic and communication design. <br>
- ☆ I'm passionate about frontend development and love turning ideas into clean, user friendly interfaces. <br>
- ☆ Presentations are one of my passions, I enjoy explaining ideas clearly and engagingly. <br>
- ☆ I love exchanging ideas with other developers and designers and I'm always open to collaboration. <br>
- ☆ Currently expanding my skills and looking for opportunities to grow as a developer. <br>
+ ☆ I studied at a school with a focus on graphic and communication design <br>
 
+ ☆ I'm passionate about frontend development and love turning ideas into clean, user friendly interfaces <br>
+ 
+ ☆ Presentations are one of my passions, I enjoy explaining ideas clearly and engagingly <br>
+ 
+ ☆ I love exchanging ideas with other developers and designers and I'm always open to collaboration <br>
+ 
+ ☆ Currently expanding my skills and looking for opportunities to grow as a developer <br>
 
+<br>
 
 ## ᕕ( ᐛ )ᕗ My Projects!
 
@@ -31,13 +35,11 @@ The site started out as a static page, but I've been steadily building it out si
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" height="40" alt="CSS" title="CSS" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6w4IyaPjXNqLqcklxRH0JkReYUcdzItG3GBgBhB4ZGrewU56B9C8TS5Me&s=10" width="40" height="40" alt="JavaScript" title="JavaScript" />
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_vue_icon_130078.png" width="40" height="40" alt="Vue.js" title="Vue.js" />
-
-<h4>☆ Other Tools:</h4>
-<p align="left">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" width="40" height="40" alt="githubPages" title="githubPages" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png" width="40" height="40" alt="githubPages" title="githubPages" />
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/supabase-icon-kpjasdqlnu8exakst6f44r.png/supabase-icon-5uqgeeqeknngv9las8zeef.png?_a=DATAiZkSZAA0" width="40" height="40" alt="Supabase" title="Supabase" />
 </p>
-</p>
+
+<br>
 
 ### [Kritzelpost](https://github.com/Cyubbert/Kritzelpost) - A Letter Doodle App ![badge -> in progress](https://img.shields.io/badge/status-in_progress-green)
 
@@ -45,15 +47,12 @@ In my second semester at CODERS.BAY, I had the freedom to choose my own project,
 
 <h4>☆ Stack:</h4>
 <p align="left">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" width="40" height="40" alt="Kotlin" title="Kotlin" />
-<img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
-
-
-<h4>☆ Other Tools:</h4>
-<p align="left">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" width="40" height="40" alt="Kotlin" title="Kotlin" />
+  <img src="https://cdn.simpleicons.org/jetpackcompose" width="40" height="40" alt="Jetpack Compose" title="Jetpack Compose" />
   <img src="https://cdn.simpleicons.org/firebase" width="40" height="40" alt="Firebase" title="Firebase" />
 </p>
-</p>
+
+<br>
 
 <h2> Tech Stack </h2> 
 
